@@ -43,8 +43,8 @@ Heatmaps, scatter plots, and more!
 
 **📈 Key Insights**
 Bitcoin & Ethereum: A strong correlation of 0.88 shows these cryptos tend to move together.
-Tech Stocks & Crypto: Weak correlations, with Microsoft (MSFT) showing the strongest connection to Bitcoin.
-Volatility: Cryptocurrencies are much more volatile than stocks, as expected!
+Tech Stocks & Crypto: Weak correlations, with Microsoft (MSFT) showing the "strongest" connection to Bitcoin.
+
 
 **🔮 Potential Insights**
 Sector-Specific Correlations: Tech stocks show more correlation with cryptos than energy or finance stocks.
